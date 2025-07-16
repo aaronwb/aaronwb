@@ -1,16 +1,25 @@
-## Hi there 👋
+<h2 align="center">👋 Hey, I'm Aaron</h2>
+<h3 align="center">Base of operations for my contributions and waves made in the infosec and comp sci space.</h3>
 
-<!--
-**aaronwb/aaronwb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/aaronwbreth">LinkedIn</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📁 About This Space
+
+- A collection of my CTF writeups, defensive playbooks, and personal projects.  
+- Mostly focused on blue team ops, infosec exploration, and automation work.
+
+---
+
+### 🧠 Curious by Nature
+
+- Building with Python, Bash, C and other languages I can get my hands on.
+- Practicing digital defense
+- Always automating, always learning
+
+---
+
+<p align="center"><i>“Take a deep breth.”</i></p>
