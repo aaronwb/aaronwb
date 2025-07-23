@@ -3,6 +3,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aaronwbreth">LinkedIn</a>
+  |
+  <a href="https://www.youtube.com/channel/UCRrX-7oqWDJacKsM2P7vEAA">Youtube</a>
 </p>
 
 ---
